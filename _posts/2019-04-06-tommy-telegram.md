@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join Tommy Robinson on Telegram
+title: Join Tommy on Telegram
 feature_image: "https://picsum.photos/2560/600?image=872"
 categories:
 - News
