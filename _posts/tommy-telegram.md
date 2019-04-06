@@ -2,9 +2,9 @@
 layout: post
 title: Join Tommy Robinson on Telegram
 categories:
-- General
-feature_video: "https://youtu.be/bBEO0USk0Rk"
+- News
 ---
+<iframe width="780" height="586" src="https://www.youtube.com/embed/bBEO0USk0Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Following his ban from Snapchat yesterday, the TR.NEWS team set up a Telegram group for Tommy Robinson to once again be able to connect with the people directly.
 
