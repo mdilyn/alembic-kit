@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About this website
+title: About Us
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+The National Freedom Movement is a patriotic movement dedicated to securing National Freedom for the British people.
+Our website serves as a blog and a way for our members to keep up to date with us, without the fear of censorship.
+Most of the content of our website will be reports on the news that the mainstream media will not report on.
