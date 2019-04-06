@@ -19,12 +19,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://nationalfreedommovement.uk'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'National Freedom Movement'
+description: 'Securing National Freedom for the British people.'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/56448963_317450018973427_6965440328425799680_n.jpg?_nc_cat=111&_nc_ht=scontent-lhr3-1.xx&oh=9c7f9f2eb8e166651bfb67f1ef5c1b14&oe=5D4210AC"
 
 # Pagination
 paginate: 5
