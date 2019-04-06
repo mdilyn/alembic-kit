@@ -3,7 +3,7 @@ layout: post
 title: Join Tommy Robinson on Telegram
 feature_image: "https://picsum.photos/2560/600?image=872"
 categories:
-- General
+- News
 ---
 <iframe width="780" height="586" src="https://www.youtube.com/embed/bBEO0USk0Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
