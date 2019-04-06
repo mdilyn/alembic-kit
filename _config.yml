@@ -43,7 +43,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: News
     output: true
     feature_text: |
       News
