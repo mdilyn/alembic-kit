@@ -24,7 +24,7 @@ baseurl: ''
 title: 'National Freedom Movement'
 description: 'Securing National Freedom for the British people.'
 permalink: pretty
-logo: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/56448963_317450018973427_6965440328425799680_n.jpg?_nc_cat=111&_nc_ht=scontent-lhr3-1.xx&oh=9c7f9f2eb8e166651bfb67f1ef5c1b14&oe=5D4210AC"
+logo: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/56718534_317487205636375_6262482391139352576_n.png?_nc_cat=110&_nc_ht=scontent-lhr3-1.xx&oh=c53b6fdccb66eff2a23a03dbc0dd4312&oe=5D091240"
 
 # Pagination
 paginate: 5
@@ -45,7 +45,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "News"
     feature_text: |
-      Welcome to my blog
+      Welcome to our blog.
     feature_image: "https://picsum.photos/2560/600?image=866"
